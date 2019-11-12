@@ -6,8 +6,13 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/N_registro"
+        android:orderInCategory="100"
+        android:title="@string/N_registro"
+        app:showAsAction="never" />
    <item
-        android:id="@+id/action_categoria"
+        android:id="@+id/action_acerca"
         android:orderInCategory="100"
         android:title="@string/action_salir"
         app:showAsAction="never" />
